@@ -1,4 +1,4 @@
-# E-Commerce Sales & Delivery Performance Analytics
+# Retail Sales & Profitability Analytics
 
 ## Project Overview
 
