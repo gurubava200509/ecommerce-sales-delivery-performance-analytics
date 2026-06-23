@@ -171,10 +171,6 @@ Business-focused SQL queries used for KPI reporting, operational analysis, and p
 
 [retail_sales_analysis.sql](./retail_sales_analysis.sql)
 
-### Dashboard Image
-Dashboard preview used in the project documentation.
-
-[dashboard.png](./dashboard.png)
 
 ---
 
