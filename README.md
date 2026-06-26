@@ -1,4 +1,4 @@
-# E-Commerce Sales & Delivery Performance Analytics
+# E-Commerce-Sales-Analytics
 
 ## Project Overview
 
